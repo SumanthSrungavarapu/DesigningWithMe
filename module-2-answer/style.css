@@ -49,6 +49,7 @@ p.inside{
         width: 31.33%;
         margin:1%;
         font-size: 20px;
+        overflow:hidden;
     } 
 }
 @media (min-width:768px) and (max-width:991px){
@@ -59,6 +60,7 @@ p.inside{
         width: 48%;
         margin:1%;
         font-size: 20px;
+        overflow:hidden;
     }
     .col-md-12{
         float:left;
@@ -67,6 +69,7 @@ p.inside{
         width: 100%;
         margin:1%;
         font-size: 20px;
+        overflow:hidden;
     }
 }
 @media (max-width:767px){
@@ -76,6 +79,7 @@ p.inside{
         padding: 40px ;
         width: 100%;
         margin:1%;
-        font-size: 20px;
+        font-size: 20px;        
+        overflow:hidden;
     }
 }
