@@ -1,3 +1,33 @@
-#header-nav{
-    background-color: aqua;
+nav.navbar{
+    background-color: #8b9199;
+    margin-bottom: 15px;
+}
+.navbar-brand{
+    margin-left: 2%;
+    font-size: 2em;
+}
+.navbar-toggler{
+    background-color: #435479;
+}
+.items{
+    color:aliceblue;
+}
+.nav-item{
+    background-color: cadetblue;
+}
+.nav-item:hover{
+    background-color:dodgerblue;
+}
+.nav-item:active{
+    background-color: antiquewhite;
+}
+.big{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+.h1{
+    margin-bottom: 20px;
 }
